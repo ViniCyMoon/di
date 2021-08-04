@@ -1,2 +1,3 @@
-local plrDin = Players.LocalPlayer.leaderstats.Dinheiro.Value
+local plr = Players.LocalPlayer
+local plrDin = plr.leaderstats.Dinheiro.Value
 plrDin = 999999999
